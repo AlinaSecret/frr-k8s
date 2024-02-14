@@ -200,7 +200,7 @@ spec:
               mode: all
 ```
 
-### Adding a raw configuration
+### Adding a raw configuration 
 
 In order to facilitate experimentation and to fill gaps quickly, it is possible to set a piece of raw
 FRR configuration that is appended to the rendered one. In order to do so, the `rawConfig` field

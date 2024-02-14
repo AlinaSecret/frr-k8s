@@ -4,7 +4,7 @@
 
 ### Bug fixes
  - helm: namespace all namespaced resources ([PR 117](https://github.com/metallb/frr-k8s/pull/117))
-
+- te
 ## Release v0.0.8
 
 ### Features
